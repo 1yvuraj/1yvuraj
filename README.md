@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/yuvraj-aggarwal-486571219/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Yuvraj" height="30" width="40" /></a>
 <a href="https://www.instagram.com/yuvrajaggarwal10/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Yuvraj" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/yuvraj12345a" target="blank"><img align="center" src="<script src=iconify" data-icon="simple-icons:codechef" style="color: green;"></script>" alt="Yuvraj" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/yuvraj12345a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="Yuvraj" height="30" width="40" color="green"/</a>
 <a href="https://leetcode.com/yuvrajaggarwal10/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="Yuvraj" height="30" width="40" /></a>
 </p>
 
