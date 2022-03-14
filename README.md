@@ -14,9 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuvraj-aggarwal-486571219/)
-
 [![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/yuvraj12345a)
-
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/yuvrajaggarwal10/)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=1yvuraj&show_icons=true&locale=en" alt="1yvuraj" /></p>
