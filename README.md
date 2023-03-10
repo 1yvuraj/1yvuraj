@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on *To Be A Full Stack Developer*
 
-- 🌱 I’m currently learning *JavaScript,React,NodeJs.*
+- 🌱 I’m currently learning *JavaScript,React,NodeJs.,Spring,SpringBoot*
 
 - 📫 How to reach me *yuvrajaggarwal10@gmail.com*
 
